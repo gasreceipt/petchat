@@ -14,6 +14,7 @@ service-account.json
 *.json
 !package.json
 !tsconfig.json
+!vercel.json
 !next.config.js
 !next.config.mjs
 !postcss.config.js
